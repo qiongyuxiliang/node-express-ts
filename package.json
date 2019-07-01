@@ -1,5 +1,5 @@
 {
-  "name": "simple-login-node",
+  "name": "node-express-ts",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liyuezu/simple-login-node.git"
+    "url": "git+https://github.com/qiongyuxiliang/node-express-ts.git"
   },
   "author": "Cooper",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/liyuezu/simple-login-node/issues"
+    "url": "https://github.com/qiongyuxiliang/node-express-ts/issues"
   },
-  "homepage": "https://github.com/liyuezu/simple-login-node#readme",
+  "homepage": "https://github.com/qiongyuxiliang/node-express-ts#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1"
